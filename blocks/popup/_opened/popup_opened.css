@@ -1,6 +1,0 @@
-.popup_opened {
-  visibility: visible;
-  opacity: 1;
-  height: 100vh;
-  transition: visibility 0.3s, opacity 0.3s linear, height 0s;
-}
